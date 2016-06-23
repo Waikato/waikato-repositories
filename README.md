@@ -1,13 +1,44 @@
 List of Repositories
 ====================
 
-Below is a curated list of github repositories that are associated with the
-Computer Science Department of the University of Waikato.
+Below is a curated list of repositories that are associated with the
+[Computer Science Department](http://www.cms.waikato.ac.nz/) of the 
+[University of Waikato](http://www.waikato.ac.nz/).
 
 Research Groups
 ---------------
 
-* WAND Group
+* **Machine Learning**
+
+  * [ADAMS](https://adams.cms.waikato.ac.nz/)
+
+    Workflow engine for building complex workflows for data mining.
+
+    https://svn.cms.waikato.ac.nz/svn/adams/base/trunk
+
+  * [MEKA](http://meka.sourceforge.net/)
+
+    Multi-label classifiers and evaluation procedures using the Weka machine
+    learning framework.
+
+    https://github.com/Waikato/meka
+
+  * [MOA](http://moa.cms.waikato.ac.nz/)
+
+    Open source framework for Big Data stream mining. It includes a collection
+    of machine learning algorithms (classification, regression, clustering,
+    outlier detection, concept drift detection and recommender systems) and
+    tools for evaluation.
+
+    https://github.com/Waikato/moa
+
+  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
+
+    A collection of machine learning algorithms for data mining tasks.
+
+    https://svn.cms.waikato.ac.nz/svn/weka/trunk
+
+* **WAND**
 
   * Network research group at Waikato University
   
@@ -17,4 +48,33 @@ Research Groups
 
     https://github.com/wandsdn
 
+
+Individuals
+-----------
+
+* **Min-Hsien Weng**
+
+  * Project aiming to produce efficient implementation for Whiley programs using 
+    static analysis techniques. 
+  
+    https://github.com/samminweng/WhileyOpenCL
+
+* **Peter Reutemann**
+
+  * Python wrapper for [Weka](http://www.cs.waikato.ac.nz/~ml/weka/) using
+    [javabridge](https://pypi.python.org/pypi/javabridge).
+
+    https://github.com/fracpete/python-weka-wrapper
+
+    https://github.com/fracpete/python-weka-wrapper3
+
+  * [Weka](http://www.cs.waikato.ac.nz/~ml/weka/) package for Semi-Supervised
+    Learning and Collective Classification
+
+    https://github.com/fracpete/collective-classification-weka-package
+
+  * [Weka](http://www.cs.waikato.ac.nz/~ml/weka/) package for parameter
+    optimization, similar to GridSearch.
+
+    https://github.com/fracpete/multisearch-weka-package
 
