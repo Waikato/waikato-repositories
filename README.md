@@ -61,20 +61,7 @@ Individuals
 
 * **Peter Reutemann**
 
-  * Python wrapper for [Weka](http://www.cs.waikato.ac.nz/~ml/weka/) using
-    [javabridge](https://pypi.python.org/pypi/javabridge).
+  * Overview of my projects
 
-    https://github.com/fracpete/python-weka-wrapper
-
-    https://github.com/fracpete/python-weka-wrapper3
-
-  * [Weka](http://www.cs.waikato.ac.nz/~ml/weka/) package for Semi-Supervised
-    Learning and Collective Classification
-
-    https://github.com/fracpete/collective-classification-weka-package
-
-  * [Weka](http://www.cs.waikato.ac.nz/~ml/weka/) package for parameter
-    optimization, similar to GridSearch.
-
-    https://github.com/fracpete/multisearch-weka-package
+    https://github.com/fracpete/projects
 
