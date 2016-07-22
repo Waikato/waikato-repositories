@@ -8,6 +8,17 @@ Below is a curated list of repositories that are associated with the
 Research Groups
 ---------------
 
+* **Digital Libraries**
+
+  * [Greenstone](http://greenstone.org/)
+
+    Greenstone is a suite of software for building and distributing digital
+    library collections.
+
+    * [Trac](http://trac.greenstone.org/)
+    * [Greenstone 2](http://svn.greenstone.org/main/trunk/greenstone2)
+    * [Greenstone 3](http://svn.greenstone.org/main/trunk/greenstone3)
+
 * **Machine Learning**
 
   * [ADAMS](https://adams.cms.waikato.ac.nz/)
