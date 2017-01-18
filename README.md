@@ -2,7 +2,7 @@ List of Repositories
 ====================
 
 Below is a curated list of repositories that are associated with the
-[Faculty of Comuting and Mathematical Sciences](http://www.cms.waikato.ac.nz/) of the 
+[Faculty of Computing and Mathematical Sciences](http://www.cms.waikato.ac.nz/) of the 
 [University of Waikato](http://www.waikato.ac.nz/).
 
 Research Groups
