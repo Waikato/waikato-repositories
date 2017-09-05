@@ -25,7 +25,12 @@ Research Groups
 
     Workflow engine for building complex workflows for data mining.
 
-    https://svn.cms.waikato.ac.nz/svn/adams/base/trunk
+    * https://github.com/Waikato/adams-base
+    * https://github.com/Waikato/adams-addons
+    * https://github.com/Waikato/adams-incubator
+    * https://github.com/Waikato/adams-spectral-base
+    * https://github.com/Waikato/adams-libraries
+    * https://github.com/Waikato/adams-applications
 
   * [MEKA](http://meka.sourceforge.net/)
 
