@@ -21,6 +21,10 @@ Research Groups
 
 * **Machine Learning**
 
+  * [AffectiveTweets](https://adams.cms.waikato.ac.nz/)
+
+    A Weka package for analyzing emotion and sentiment of tweets.
+   
   * [ADAMS](https://adams.cms.waikato.ac.nz/)
 
     Workflow engine for building complex workflows for data mining.
