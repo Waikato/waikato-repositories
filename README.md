@@ -32,6 +32,10 @@ Research Groups
     * https://github.com/waikato-datamining/adams-libraries
     * https://github.com/waikato-datamining/adams-applications
 
+  * [AffectiveTweets](https://github.com/felipebravom/AffectiveTweets)
+
+    A Weka package for analyzing emotion and sentiment of tweets.
+
   * [MEKA](http://meka.sourceforge.net/)
 
     Multi-label classifiers and evaluation procedures using the Weka machine
