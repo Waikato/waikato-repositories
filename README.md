@@ -27,7 +27,6 @@ Research Groups
 
     * https://github.com/waikato-datamining/adams-base
     * https://github.com/waikato-datamining/adams-addons
-    * https://github.com/waikato-datamining/adams-incubator
     * https://github.com/waikato-datamining/adams-spectral-base
     * https://github.com/waikato-datamining/adams-libraries
     * https://github.com/waikato-datamining/adams-applications
@@ -58,6 +57,12 @@ Research Groups
 
     https://svn.cms.waikato.ac.nz/svn/weka/trunk
 
+  * [UFDL](https://waikato-ufdl.github.io/)
+
+    The *User-friendly Deep Learning* project for making DL more accessible
+    to domain experts without having to involve machine learning experts.
+
+
 * **WAND**
 
   * Network research group at Waikato University
@@ -81,8 +86,7 @@ Individuals
 
 * **Peter Reutemann**
 
-  * python-weka-wrapper ([Python 2.7](https://github.com/fracpete/python-weka-wrapper) 
-    and [Python 3.x](https://github.com/fracpete/python-weka-wrapper3))
+  * python-weka-wrapper [Python 3.x](https://github.com/fracpete/python-weka-wrapper3))
   * various [Weka plugins](https://github.com/fracpete/projects#weka-plugins)
   * [all projects](https://github.com/fracpete/projects)
 
