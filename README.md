@@ -86,7 +86,7 @@ Individuals
 
 * **Peter Reutemann**
 
-  * python-weka-wrapper [Python 3.x](https://github.com/fracpete/python-weka-wrapper3))
+  * python-weka-wrapper [Python 3.x](https://github.com/fracpete/python-weka-wrapper3)
   * various [Weka plugins](https://github.com/fracpete/projects#weka-plugins)
   * [all projects](https://github.com/fracpete/projects)
 
