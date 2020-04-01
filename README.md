@@ -62,6 +62,8 @@ Research Groups
     The *User-friendly Deep Learning* project for making DL more accessible
     to domain experts without having to involve machine learning experts.
 
+    
+
 
 * **WAND**
 
@@ -89,4 +91,11 @@ Individuals
   * python-weka-wrapper [Python 3.x](https://github.com/fracpete/python-weka-wrapper3)
   * various [Weka plugins](https://github.com/fracpete/projects#weka-plugins)
   * [all projects](https://github.com/fracpete/projects)
+
+
+* **Rhys Compton**
+
+  * Embedding Java Classes with code2vec: Improvements from Variable Obfuscation
+
+    https://github.com/basedrhys/obfuscated-code2vec
 
