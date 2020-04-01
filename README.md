@@ -51,6 +51,10 @@ Research Groups
 
     https://github.com/Waikato/moa
 
+  * [Obfuscated code2vec](https://github.com/basedrhys/obfuscated-code2vec)
+  
+    Embedding Java Classes with code2vec: Improvements from Variable Obfuscation
+    
   * [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
 
     A collection of machine learning algorithms for data mining tasks.
@@ -92,10 +96,4 @@ Individuals
   * various [Weka plugins](https://github.com/fracpete/projects#weka-plugins)
   * [all projects](https://github.com/fracpete/projects)
 
-
-* **Rhys Compton**
-
-  * Embedding Java Classes with code2vec: Improvements from Variable Obfuscation
-
-    https://github.com/basedrhys/obfuscated-code2vec
 
