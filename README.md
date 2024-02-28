@@ -58,7 +58,7 @@ Research Groups
 
     A collection of machine learning algorithms for data mining tasks.
 
-    https://svn.cms.waikato.ac.nz/svn/weka/trunk
+    https://git.cms.waikato.ac.nz/weka/weka
 
   * [UFDL](https://waikato-ufdl.github.io/)
 
