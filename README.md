@@ -66,7 +66,9 @@ Research Groups
     The *User-friendly Deep Learning* project for making DL more accessible
     to domain experts without having to involve machine learning experts.
 
-    
+  * [Waikato LLM](https://github.com/waikato-llm)
+ 
+    Code repositories around Large Language Models (LLMs)
 
 
 * **WAND**
