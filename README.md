@@ -28,7 +28,6 @@ Research Groups
     * https://github.com/waikato-datamining/adams-base
     * https://github.com/waikato-datamining/adams-addons
     * https://github.com/waikato-datamining/adams-spectral-base
-    * https://github.com/waikato-datamining/adams-libraries
     * https://github.com/waikato-datamining/adams-applications
 
   * [AffectiveTweets](https://github.com/felipebravom/AffectiveTweets)
