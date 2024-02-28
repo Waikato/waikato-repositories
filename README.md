@@ -72,10 +72,6 @@ Research Groups
 
 * **WAND**
 
-  * Network research group at Waikato University
-  
-    https://github.com/wanduow
-
   * Software-defined network research group at Waikato University
 
     https://github.com/wandsdn
